@@ -30,5 +30,4 @@
 <h3>📥 Clone the Repository</h3>
 
 ```bash
-git clone https://github.com/shabdvasudeva/Chaquopy-Android-Template.git
-cd Chaquopy-Android-Template
+git clone && https://github.com/shabdvasudeva/Chaquopy-Android-Template.git && cd Chaquopy-Android-Template
